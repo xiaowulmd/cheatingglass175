@@ -1,0 +1,67 @@
+body{
+	background-color: rgb(244, 244, 244);
+	color: rgb(17, 17, 17);
+}
+
+.cole-1{
+	/*color: black;*/
+	font-family: "Courier New", Monospace;
+	font-size: 28px;
+	font-weight: bold;
+	color: white;
+	padding: 15px 30px;
+}
+
+.sizo-1 {
+	font-size: 240px;
+}
+
+.sizo-2{
+	font-size: 80px;
+}
+
+.sizo-3{
+	font-size: 70px;
+}
+
+.sizo-4{
+	font-size: 50px;
+}
+
+.sizo-5{
+	font-size: 40px;
+}
+
+.mego-1{
+	margin-top: 100px;
+}
+
+.mego-2{
+	margin-top: 50px;
+}
+
+.mego-3{
+	margin-top: 30px;
+}
+
+.mego-4{
+	margin-top: 200px;
+}
+
+.stie-1{
+	font-weight: bold;
+	font-size: 18px;
+	color: #3f7c5e;
+/*	color: #59ae84;*/
+}
+
+.stie-2{
+/*	color: #3f7c5e;*/
+	color: #59ae84;
+	/*font-weight: bold;*/
+}
+
+.imoga-1{
+	max-width: 300px;
+ 	height: auto;
+}
